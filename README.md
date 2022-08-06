@@ -1,16 +1,11 @@
-# perguntas
+# Perguntas
 
-A new Flutter project.
+Projeto feito em Flutter no curso Aprenda Flutter e Desenvolva Apps Para Android e IOS na Udemy.
 
-## Getting Started
+O app consistem em perguntas com respostas pontuadas. De acordo com a soma da pontuação, no final das questões, é apresentado um resultado.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div style="display: flex; flex-direction:row;">
+    <img src="assets/git/1.png" alt="Pergunta" style="width:30%; height:30%" />
+    <img src="assets/git/2.png" alt="Pergunta" style="width:30%; height:30%" />
+    <img src="assets/git/3.png" alt="Resultado" style="width:30%; height:30%" />
+</div>
